@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/jest-environment-puppeteer": "^4.3.1"
+    "@types/jest-environment-puppeteer": "^4.3.1",
+    "jest": "^25.5.4"
   }
 }
